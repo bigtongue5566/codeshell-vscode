@@ -1,0 +1,11 @@
+{
+    "codeshell.auto_completion_enable.title": "啟用 自動觸發補全",
+    "codeshell.auto_completion_disable.title": "停用 自動觸發補全",
+    "codeshell.explain_this_code.title": "解釋 這段程式碼",
+    "codeshell.improve_this_code.title": "優化 這段程式碼",
+    "codeshell.clean_this_code.title": "清理 這段程式碼", 
+    "codeshell.generate_comment.title": "生成 註解",
+    "codeshell.generate_unit_test.title": "生成 單元測試",
+    "codeshell.check_performance.title": "檢查 效能問題",
+    "codeshell.check_security.title": "檢查 安全性問題"
+}

@@ -1,126 +1,157 @@
 {
     "start_session": {
         "zh-cn": "开启新会话",
+        "zh-tw": "啟動新對話",
         "en": "Start a new session"
     },
     "code": {
         "zh-cn": "代码",
+        "zh-tw": "程式碼",
         "en": "code"
     },
     "unit_test": {
         "zh-cn": "代码生成单元测试",
+        "zh-tw": "程式碼生成單元測試",
         "en": "Code generation unit test"
     },
     "comment": {
         "zh-cn": "代码生成注释",
+        "zh-tw": "程式碼生成註解",
         "en": "Code generation comment"
     },
     "stop_generation": {
         "zh-cn": "停止生成",
+        "zh-tw": "停止生成",
         "en": "Stop Gen"
     },
     "history": {
         "zh-cn": "历史",
+        "zh-tw": "歷史",
         "en": "History"
     },
     "send": {
         "zh-cn": "发送",
+        "zh-tw": "發送",
         "en": "Send"
     },
     "disable_auto_completion": {
         "zh-cn": "禁用 自动触发代码补全（可由快捷键触发）",
+        "zh-tw": "停用自動觸發程式碼補全（可由快速鍵觸發）",
         "en": "Disable Auto Code Completion (Can be triggered by shortcut keys)"
     },
     "enable": {
         "zh-cn": "启用",
+        "zh-tw": "啟用",
         "en": "Enable"
     },
     "answer": {
         "zh-cn": "回答 :",
+        "zh-tw": "回答 :",
         "en": "Answer :"
     },
     "answer_completed": {
         "zh-cn": "回答输出完毕!",
+        "zh-tw": "回答輸出完成！",
         "en": "Answer output completed"
     },
     "ask_here": {
         "zh-cn": "在这里提问, Enter发送",
+        "zh-tw": "在這裡提問，按Enter發送",
         "en": "Ask here, press Enter key to send"
     },
     "line_break": {
         "zh-cn": "换行",
+        "zh-tw": "換行",
         "en": " Line break"
     },
     "unknown_language": {
         "zh-cn": "无法确定语言类型！",
+        "zh-tw": "無法確定語言類型！",
         "en": "Unknown Language type"
     },
     "security_issue": {
         "zh-cn": ", 是否存在性能问题，请给出优化建议",
+        "zh-tw": "，是否存在性能問題，請給出優化建議",
         "en": ". Is there a security issue"
     },
     "performance_issue": {
         "zh-cn": ",是否存在安全性问题，请给出优化建议",
+        "zh-tw": "，是否存在安全性問題，請給出優化建議",
         "en": ". Is there a performance issue"
     },
     "check": {
         "zh-cn": "检查以下",
+        "zh-tw": "檢查以下",
         "en": "Check the following"
     },
     "disable": {
         "zh-cn": "禁用",
+        "zh-tw": "停用",
         "en": "Disable"
     },
     "auto_completion": {
         "zh-cn": "启用 自动触发代码补全（输入停止时触发）",
+        "zh-tw": "啟用自動觸發程式碼補全（輸入停止時觸發）",
         "en": "Enable Automatically trigger code completion"
     },
     "following": {
         "zh-cn": "请为以下",
+        "zh-tw": "請為以下",
         "en": "Please for the following"
     },
     "optimize_rewrite": {
         "zh-cn": "请优化并重写以下",
+        "zh-tw": "請優化並重寫以下",
         "en": "Please optimize and rewrite the following"
     },
     "timeout": {
         "zh-cn": "请求超时，请稍后重试。",
+        "zh-tw": "請求超時，請稍後再試。",
         "en": "Request timeout, please try again later"
     },
     "clean_up": {
         "zh-cn": "请清理并重写以下",
+        "zh-tw": "請清理並重寫以下",
         "en": "Please clean up and rewrite the following"
     },
     "optimization_suggestion": {
         "zh-cn": "请给出优化建议",
+        "zh-tw": "請給出優化建議",
         "en": "Please give optimization suggestions"
     },
     "explain": {
         "zh-cn": "请解释以下",
+        "zh-tw": "請解釋以下",
         "en": "Please explain the following"
     },
     "select_code": {
         "zh-cn": "请选中一段代码",
+        "zh-tw": "請選中一段程式碼",
         "en": "Please select a section of code"
     },
     "history_back_btn": {
         "zh-cn": "返回",
+        "zh-tw": "返回",
         "en": "Back"
     },
     "how_above_answer": {
         "zh-cn": "这个回答怎么样？",
+        "zh-tw": "這個回答怎麼樣？",
         "en": "How about this answer?"
     },
     "question": {
         "zh-cn": "问题 :",
+        "zh-tw": "問題 :",
         "en": "Question :"
     },
     "homepage": {
         "zh-cn": "首页",
+        "zh-tw": "首頁",
         "en": "Homepage"
     },
     "dummy": {
         "zh-cn": "",
+        "zh-tw": "",
         "en": ""
     }
 }
